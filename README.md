@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
-<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NEVARLeVrai/readme/main/bat.svg?token=GHSAT0AAAAAACFPAIBWMH4RT5EZ2NZ2IZHUZGABANA" width="36" height="36" alt="Batch" /></a>
+<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NEVARLeVrai/Random-Stuffs/main/bat.svg" width="36" height="36" alt="Batch" /></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></p>
 
