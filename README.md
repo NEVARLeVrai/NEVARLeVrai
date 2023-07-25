@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) welcome to my profile!
 =============================================================================================================================
 
-😁 Beginner dev
-
 ------------
 
-💻 IT student
+| 😁 Beginner dev
 
-👨‍💻 technology enthusiast
+| 💻 IT student
+
+| 👨‍💻 technology enthusiast
 
 ------------
 
@@ -18,6 +18,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | 🚀  Currently working on [a Discord bot in Python](https://github.com/NEVARLeVrai/Python-Discord-Bot)
 
 | 🐍  I'm learning Python
+
+------------
 
 ### Skills
 
