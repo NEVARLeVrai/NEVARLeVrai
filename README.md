@@ -5,8 +5,7 @@
 ------------
 
 
-||  💻 IT student  ||  👨‍💻 technology enthusiast  ||
-
+||  💻 IT student  ||
 
 
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
