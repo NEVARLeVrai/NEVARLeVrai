@@ -19,6 +19,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 | 💡  I'm learning Python, batchline, powershell and html
 
+<a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ------------
 
 ### Skills
