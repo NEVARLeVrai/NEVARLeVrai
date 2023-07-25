@@ -12,7 +12,7 @@
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
 * 🚀  Currently working on a [Discord bot in Python 🐍](https://github.com/NEVARLeVrai/Python-Discord-Bot)
-* 💡  I'm learning Python, batchfile, C# and html
+* 💡  I'm learning Python, Batchfile, C# and html
 
 <a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br/>
