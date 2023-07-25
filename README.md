@@ -1,23 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) welcome to my profile!
 =============================================================================================================================
 
+😁 Beginner dev
 ------------
 
-| 😁 Beginner dev
+💻 IT student  || 
+👨‍💻 technology enthusiast
 
-| 💻 IT student
 
-| 👨‍💻 technology enthusiast
-
-------------
-
-| 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
-
-| 🌐  I'm based in France
-
-| 🚀  Currently working on [a Discord bot in Python](https://github.com/NEVARLeVrai/Python-Discord-Bot)
-
-| 💡  I'm learning Python, batchline, powershell and html
+* 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
+* 🌐  I'm based in France
+* 🚀  Currently working on [a Discord bot in Python](https://github.com/NEVARLeVrai/Python-Discord-Bot)
+* 💡  I'm learning Python, batchline, powershell and html
 
 <a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
