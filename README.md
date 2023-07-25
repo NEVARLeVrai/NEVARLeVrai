@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 | 🚀  Currently working on [a Discord bot in Python](https://github.com/NEVARLeVrai/Python-Discord-Bot)
 
-| 🐍  I'm learning Python, batchline, html
+| 💡  I'm learning Python, batchline, powershell and html
 
 ------------
 
