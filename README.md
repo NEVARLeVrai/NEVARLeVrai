@@ -23,8 +23,7 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></p>
 
 ### Socials
 
@@ -33,4 +32,4 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 ### My GitHub Stats
 
 <a href="https://github.com/NEVARLeVrai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEVARLeVrai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/NEVARLeVrai"><img src="https://github-readme-stats.vercel.app/api?username=NEVARLeVrai&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NEVAR stats" /></a>
+<a href="http://www.github.com/NEVARLeVrai"><img src="https://github-readme-stats.vercel.app/api?username=NEVARLeVrai&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NEVAR stats" /></a></p> 
