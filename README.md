@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>
 <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NEVARLeVrai/Random-Stuffs/main/bat.svg" width="36" height="36" alt="Batch" /></a>
 <a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="36" height="36"/> </a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a></p>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a></p>
 
 ## 💬 Socials
