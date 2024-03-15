@@ -10,8 +10,8 @@
 
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
-* 🚀  Currently working on a [Discord bot in Python 🐍](https://github.com/NEVARLeVrai/Python-Discord-Bot)
-* 💡  I'm learning Python, Batchfile, C++, html and CSS3
+* 🚀  Currently working on a [Advanced Search Google Tool](https://github.com/NEVARLeVrai/Advanced-Search-Google-Tool?tab=readme-ov-file)
+* 💡  I'm learning Python, Batchfile, C++, C#, VB, html and CSS3
 
 <a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br/>
