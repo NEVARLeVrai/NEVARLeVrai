@@ -11,7 +11,7 @@
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
 * 🚀  Currently working on a [Advanced Search Google Tool](https://github.com/NEVARLeVrai/Advanced-Search-Google-Tool?tab=readme-ov-file)
-* 💡  I'm learning Python, Batchfile, C++, C#, VB, html and CSS3
+* 💡  I'm learning Python, Batchfile, C++, C#, VB, SQL, PHP, html and CSS3
 
 <a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br/>
@@ -20,13 +20,21 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 
 ## 😏 Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>
-<a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NEVARLeVrai/Random-Stuffs/main/bat.svg" width="36" height="36" alt="Batch" /></a>
-<a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="36" height="36"/> </a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a></p>
 
+<a href="https://en.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="Csharp" /></a>
+<a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="36" height="36"/> </a>
+<a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" width="36" height="36" alt="VB" /></a>
+<a href="https://en.wikipedia.org/wiki/PHP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://en.wikipedia.org/wiki/Structured_Query_Language" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
+<a
+href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>
+<a 
+href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NEVARLeVrai/Random-Stuffs/main/bat.svg" width="36" height="36" alt="Batch" /></a>
+<a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell" /></a></p>
+<p align="left">
+  
 ## 💬 Socials
 
 <p align="left"> <a href="https://discord.com/users/745923070736465940" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
