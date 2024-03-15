@@ -11,7 +11,7 @@
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
 * 🚀  Currently working on a [Advanced Search Google Tool](https://github.com/NEVARLeVrai/Advanced-Search-Google-Tool?tab=readme-ov-file)
-* 💡  I'm learning Python, Batchfile, C++, C#, VB, SQL, PHP, html and CSS3
+* 💡  I'm learning Python, Batchfile, PowerShell script, C++, C#, VB, SQL, PHP, html and CSS3
 
 <a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br/>
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>
 <a 
-href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/NEVARLeVrai/Random-Stuffs/main/bat.svg" width="36" height="36" alt="Batch" /></a>
+href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Batch" /></a>
 <a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell" /></a></p>
 <p align="left">
   
