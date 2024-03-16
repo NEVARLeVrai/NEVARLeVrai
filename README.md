@@ -33,11 +33,12 @@ href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img 
 <a 
 href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Batch" /></a>
 <a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell" /></a></p>
-<p align="left">
+
   
 ## 💬 Socials
 
-<p align="left"> <a href="https://discord.com/users/745923070736465940" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/745923070736465940" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" /></a></p>
 
 
 ## 📊 GitHub Stats
