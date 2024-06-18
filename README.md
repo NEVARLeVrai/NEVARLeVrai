@@ -21,7 +21,6 @@ src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-t
 <a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="c++"/></a>
 <a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" width="36" height="36" alt="VB" /></a>
 <a href="https://en.wikipedia.org/wiki/PHP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://en.wikipedia.org/wiki/Structured_Query_Language" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
 <a
 href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
