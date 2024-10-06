@@ -29,8 +29,5 @@ href="https://en.wikipedia.org/wiki/CSS3" target="_blank" rel="noreferrer"><img 
 href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Batch" /></a>
 <a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell" /></a></p>
 
-<a href="https://github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" /></a></p>
-
-
 ## 📊 GitHub Stats
 <a href="https://github.com/NEVARLeVrai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEVARLeVrai&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
