@@ -12,7 +12,6 @@
 <a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [![](https://visitcount.itsvg.in/api?id=NEVARLeVrai&icon=8&color=12)](https://visitcount.itsvg.in)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DanielsSoares) 
 
 ## 😏 Skills
 
