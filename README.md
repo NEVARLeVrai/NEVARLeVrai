@@ -32,7 +32,6 @@ href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"
   
 ## 💬 Socials
 
-<p align="left"> <a href="https://discord.com/users/745923070736465940" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" /></a></p>
 
 
