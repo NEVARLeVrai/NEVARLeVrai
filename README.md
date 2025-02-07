@@ -3,14 +3,9 @@
 
 ||  💻 IT student  ||
 
-
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
 * 🚀  Currently working on [Game Asset Factory Website](https://github.com/GameAssetFactory/GAF-website)
-
-<a href="https://www.github.com/NEVARLeVrai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NEVARLeVrai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![](https://visitcount.itsvg.in/api?id=NEVARLeVrai&icon=8&color=12)](https://visitcount.itsvg.in)
 
 ## 😏 Skills
 
