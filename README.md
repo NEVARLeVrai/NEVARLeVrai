@@ -5,7 +5,6 @@
 
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
-* 🚀  Currently working on [Game Asset Factory Website](https://github.com/GameAssetFactory/GAF-website)
 
 ## 😏 Skills
 
