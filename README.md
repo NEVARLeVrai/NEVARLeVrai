@@ -5,6 +5,7 @@
 
 * 🔗  Need Help? contact me at [NEVARLeVrai@proton.me](mailto:NEVARLeVrai@proton.me)
 * 🌐  I'm based in France
+* 🧠  Currently working on [N-Zik]([mailto:NEVARLeVrai@proton.me](https://github.com/NEVARLeVrai/N-Zik))
 
 ## 😏 Skills
 
