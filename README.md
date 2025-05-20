@@ -24,3 +24,5 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEVARLeVrai&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NEVARLeVrai's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NEVARLeVrai&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NEVARLeVrai's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=NEVARLeVrai&theme=dark&hide_border=true" alt="NEVARLeVrai's GitHub Stats" />
