@@ -23,4 +23,4 @@
 <a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell" /></a></p>
 
 ## 📊 GitHub Stats
-<a href="https://github.com/NEVARLeVrai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEVARLeVrai&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEVARLeVrai&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NEVARLeVrai's GitHub Stats" />
