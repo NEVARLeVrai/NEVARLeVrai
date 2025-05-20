@@ -9,6 +9,7 @@
 
 ## 😏 Skills
 
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width="36" height="36" alt="Csharp" /></a>
 <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Csharp" /></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="Csharp" /></a>
 <a href="https://en.wikipedia.org/wiki/C++" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="c++"/></a>
