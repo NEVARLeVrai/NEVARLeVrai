@@ -42,10 +42,5 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="36" height="36" alt="WordPress" /></a>
 
-## 💼 Office Suite
-
-<a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-365-logo-icon-svg-download-png-8630405.png?f=webp&w=256" width="36" height="36" alt="Office 365" /></a>
-<a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://image.makewebeasy.net/makeweb/m_1920x0/jOUFO6Ola/GoogleWorkspace/google_workspace.webp?v=202405291424" width="36" height="36" alt="Google Workspace" /></a>
-
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=NEVARLeVrai&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NEVARLeVrai's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEVARLeVrai&theme=dark&show_icons=true&hide_border=true" alt="NEVARLeVrai's GitHub Stats" />
