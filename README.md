@@ -35,7 +35,7 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" width="36" height="36" alt="Draw.IO" /></a>
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="36" height="36" alt="Adobe Suite" /></a>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" width="36" height="36" alt="Adobe Suite" /></a>
 <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" alt="SQL Server" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="36" height="36" alt="VirtualBox" /></a>
