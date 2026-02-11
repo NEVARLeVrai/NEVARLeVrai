@@ -42,6 +42,26 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="36" height="36" alt="WordPress" /></a>
 
+## 🏫 Organisations
+
+<p>
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/260920053?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="BUT DW"/>
+  &nbsp;
+  <a href="https://github.com/BUT-DW-Projects-SOARES">BUT-DW-Projects-SOARES</a> · BUT MMI — IUT Haguenau
+</p>
+
+<p>
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/260935797?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="BTS SIO SLAM"/>
+  &nbsp;
+  <a href="https://github.com/BTS-SIO-SLAM-SOARES">BTS-SIO-SLAM-SOARES</a> · BTS SIO SLAM — Lycée René Cassin
+</p>
+
+<p>
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/181212711?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="TLAD BTS SIO"/>
+  &nbsp;
+  <a href="https://github.com/TLAD-Projets-BTS-SIO">TLAD-Projets-BTS-SIO</a> · BTS SIO Group — Lycée René Cassin
+</p>
+
 ## 📊 GitHub Stats
 <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=NEVARLeVrai&custom_title=GitHub+Stats&theme=dark&title_color=a231ed&text_color=4f4257&icon_color=af4bf1&ring_color=a231ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=10&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=long" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=NEVARLeVrai&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=10&card_width=466&locale=pt-br&custom_title=Language+most+used&langs_count=20" alt="Language most used" width="466" height="auto" loading="lazy" /></a> 
