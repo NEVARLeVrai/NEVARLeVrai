@@ -47,7 +47,7 @@
 <p>
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/260920053?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="BUT DW"/>
   &nbsp;
-  <a href="https://github.com/BUT-DW-Projects-SOARES">BUT-DW-Projects-SOARES</a> · BUT MMI — IUT Haguenau
+  <a href="https://github.com/BUT-DW-Projects-SOARES">BUT-DW-Projects-SOARES</a> · BUT MMI DW — IUT Haguenau
 </p>
 
 <p>
