@@ -59,7 +59,7 @@
 <p>
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/181212711?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="TLAD BTS SIO"/>
   &nbsp;
-  <a href="https://github.com/TLAD-Projets-BTS-SIO">TLAD-Projets-BTS-SIO</a> · BTS SIO Group — Lycée René Cassin
+  <a href="https://github.com/TLAD-Projets-BTS-SIO">TLAD-Projets-BTS-SIO</a> · TLAD Projets — Lycée René Cassin
 </p>
 
 ## 📊 GitHub Stats
