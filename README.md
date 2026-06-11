@@ -11,7 +11,7 @@
 
 * 🔗  Need Help? contact me at [daniels-soares67@hotmail.com](mailto:daniels-soares67@hotmail.com)
 * 🌐  I'm based in France
-* 🧠  Currently working on [N-Zik](https://github.com/NEVARLeVrai/N-Zik)
+* 🧠  Currently working on [N-Zik](https://github.com/N-Zik-Group/N-Zik)
 
 ## 😏 Skills
 
