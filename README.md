@@ -37,7 +37,7 @@ You can donate on Github, Patreon and Buy me a coffee
   <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Batch"/></a>
   <a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="36" height="36" alt="PowerShell"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="36" height="36" alt="SQL"/></a>
-  <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer"><img src="https://www.logiciel-libre.org/stock/img/product/logo-twig.png" width="36" height="36" alt="Twig"/></a>
+  <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/material-icon-theme/icons/twig.svg" width="36" height="36" alt="Twig"/></a>
 </div>
 
 ## 🛠️ Tools & Software
@@ -59,25 +59,25 @@ You can donate on Github, Patreon and Buy me a coffee
 <p>
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/292738521?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="N-Zik-Group"/>
   &nbsp;
-  <a href="https://github.com/N-Zik-Group">N-Zik-Group</a> · N-Zik — Frontend Android multilingue pour YouTube Music
+  <a href="https://github.com/N-Zik-Group">N-Zik-Group</a> · N-Zik - Frontend Android multilingue pour YouTube Music
 </p>
 
 <p>
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/260920053?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="BUT DW"/>
   &nbsp;
-  <a href="https://github.com/BUT-DW-Projects-SOARES">BUT-DW-Projects-SOARES</a> · BUT MMI DW — IUT Haguenau
+  <a href="https://github.com/BUT-DW-Projects-SOARES">BUT-DW-Projects-SOARES</a> · BUT MMI DW - IUT Haguenau
 </p>
 
 <p>
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/260935797?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="BTS SIO SLAM"/>
   &nbsp;
-  <a href="https://github.com/BTS-SIO-SLAM-SOARES">BTS-SIO-SLAM-SOARES</a> · BTS SIO SLAM — Lycée René Cassin
+  <a href="https://github.com/BTS-SIO-SLAM-SOARES">BTS-SIO-SLAM-SOARES</a> · BTS SIO SLAM - Lycée René Cassin
 </p>
 
 <p>
   <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/181212711?v=4&w=50&h=50&fit=cover&mask=circle&output=png" alt="TLAD BTS SIO"/>
   &nbsp;
-  <a href="https://github.com/TLAD-Projets-BTS-SIO">TLAD-Projets-BTS-SIO</a> · TLAD Projets — Lycée René Cassin
+  <a href="https://github.com/TLAD-Projets-BTS-SIO">TLAD-Projets-BTS-SIO</a> · TLAD Projets - Lycée René Cassin
 </p>
 
 ## 📊 GitHub Stats
