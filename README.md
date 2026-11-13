@@ -12,7 +12,6 @@
 * 🔗  Need Help? contact me at [daniels-soares67@hotmail.com](mailto:daniels-soares67@hotmail.com)
 * 🌐  I'm based in France
 * 🧠  Currently working on [N-Zik](https://github.com/N-Zik-Group/N-Zik)
-* 🎨  Building the [N-Zik Theme Store](https://github.com/N-Zik-Group/N-Zik-Theme-Store), a catalog of community themes for N-Zik. [Contribute a theme](https://github.com/N-Zik-Group/N-Zik-Theme-Store/blob/main/CONTRIBUTING.md).
 
 
 ## 💓 Donations
